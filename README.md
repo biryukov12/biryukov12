@@ -1,7 +1,10 @@
 ## 💻 Full stack developer (React/Angular + Django)
 
 ### [💬 Contact me](t.me/biryukov12)
-### [📷 sub my instagram](instagram.com/biryukov12)
+### [📷 Sub to instagram](instagram.com/biryukov12)
+
+At the moment I am working on a web application for maintaining a database of customers and sellers of the product, accounting for the use by customers of the services provided by the product.
+In my free time, I continue to study AngularJS & Django ORM and libraries for data analysis and machine learning (clustering and deploying an ML model in Heroku using FLASK).
 
 <!--
 **biryukov12/biryukov12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
