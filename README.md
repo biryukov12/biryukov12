@@ -1,5 +1,5 @@
 ## 💻 Full stack developer (ReactJS/AngularJS + Django)
-### [💬 Contact me](t.me/biryukov12)
+### [💬 Contact me](https://t.me/biryukov12)
 ### [📷 Sub to instagram](instagram.com/biryukov12)
 
 #### At the moment I am working on a web application for maintaining a database of customers and sellers of the product, accounting for the use by customers of the services provided by the product. In my free time, I continue to study AngularJS & Django ORM and ML ([clustering and deploying an ML model in Heroku using FLASK](https://github.com/biryukov12/deployment-of-ML-model)).
