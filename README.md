@@ -1,6 +1,7 @@
 ## 💻 Full stack developer (React/Angular + Django)
 
 ### [💬 Contact me](t.me/biryukov12)
+### [📷 sub my instagram](instagram.com/biryukov12)
 
 <!--
 **biryukov12/biryukov12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
