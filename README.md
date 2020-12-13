@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Full stack developer (React/Angular + Django)
+## Full stack developer (React/Angular + Django)
 
 [💬 Contact me](t.me/biryukov12)
 
