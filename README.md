@@ -1,4 +1,4 @@
-## 💻 Full stack developer (ReactJS/AngularJS + Django)
+## 💻 Full stack developer (AngularJS + Django)
 ### [💬 Contact me](https://t.me/biryukov12)
 ### [📷 Sub to instagram](https://instagram.com/biryukov12)
 
