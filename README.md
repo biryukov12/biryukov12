@@ -1,8 +1,12 @@
-## 💻 Python developer
+## 🐍 Python developer
+
+#### Django DRF + ORM • PostgreSQL (pgAdmin / psycopg2 / Django ORM) • Docker • English B1/B2
+
+Currently I am developing a CRM system for the sales department (keeping a database of customers and salespeople of the product, recording the use of customer services, etc.). Project stack: Angular, Django ORM, PostgreSQL, Docker.<br>
+In my spare time I continue to learn SQL, Django, FastAPI+sqlalchemy, JS frameworks and ML ([clustering and deploying an ML model in Heroku using FLASK](https://github.com/biryukov12/deployment-of-ML-model)).
+
 ### [💬 Contact me](https://t.me/biryukov12)
 ### [📷 Sub to instagram](https://instagram.com/biryukov12)
-
-#### At the moment I am working on a web application for maintaining a database of customers and sellers of the product, accounting for the use by customers of the services provided by the product. In my free time, I continue to study AngularJS & Django ORM and ML ([clustering and deploying an ML model in Heroku using FLASK](https://github.com/biryukov12/deployment-of-ML-model)).
 
 <!--
 **biryukov12/biryukov12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
